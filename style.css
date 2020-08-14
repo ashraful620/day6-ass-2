@@ -1,0 +1,95 @@
+
+img{max-width: 100%;}
+p{font-size: 15px;
+	color: #757575ba;}
+h2 {font-size: 50px;}
+h3 {font-size: 40px;}
+h4{font-size: 30px;}
+h5{	font-size: 20px;}
+h6{	font-size: 18px;}
+
+
+
+/* custom css */
+/* brand css */
+.brand{
+	background: #F1F3FB;
+}
+.card {
+    border: 4px solid #ddd;
+    border-radius: 18px;
+}
+.footer_menu ul li{
+    display: inline-block;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+
+
+/* responsive css */
+/* medium devices */
+
+
+/* small devices */
+
+/* extra small devices */
+@media(max-width: 500px){
+	h2 {font-size: 25px;}
+.problem_heading h6 {
+    width: 100%;
+}
+
+.p_item .p_text {width: 100% !important;}
+
+ h4 {font-size: 21px;}
+ h3 {font-size: 23px;}
+
+.p_item {
+    padding: 0px !important;
+    margin-top: 20px;
+}
+
+.header_btn {
+    margin-bottom: 15px;
+}
+.fix_problem {
+    padding: 6px !important;
+}
+
+.problem_heading h6 {
+    width: 97% !important;
+}
+.row.per .col-md-6 {
+    width: 50%;
+}
+
+.row.per h6 {
+    font-size: 15px;
+}
+
+.problem_heading {
+    width: 92% !important;
+}
+
+.benefit_items {
+    width: 90% !important;
+}
+
+.header_img {
+    text-align: center;
+}
+
+.item img {
+}
+
+.brand_items {
+    padding: 0 !important;
+}
+
+.item {
+    margin: 5px;
+}
+
+
+}
